@@ -6,7 +6,7 @@ namespace HelloWorldConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Generate equations for addition and subtraction:");
         }
     }
 }
